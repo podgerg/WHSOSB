@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial test page](README.md)
+* [Data Provider](README.md)
 
